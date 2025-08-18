@@ -22,7 +22,7 @@ This project is an **offline Point-Of-Sale (POS) system** that uses local speech
 │       ├── am/
 │       ├── conf/
 │       ├── ... (Vosk model files and folders)
-└── sample_audio.wav              # Example audio file for testing (you provide this)
+└── sample_audio.wav              # Example audio file for testing (Example audio provide this)
 ```
 
 ---
