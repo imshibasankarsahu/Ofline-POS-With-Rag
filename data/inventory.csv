@@ -1,0 +1,21 @@
+id,name,price,stock,description,tags
+1,apple,0.50,120,Fresh red apples,fruit fresh produce
+2,banana,0.30,150,Ripe yellow bananas,fruit fresh produce
+3,coffee,3.99,40,Ground Arabica coffee 250g,beverage caffeine drink
+4,tea,2.49,60,Assam black tea 100 bags,beverage drink
+5,milk,1.20,80,Full cream milk 1L,dairy beverage
+6,bread,1.50,50,Whole wheat bread loaf,bakery carbs
+7,eggs,2.99,100,Free-range eggs pack of 12,protein dairy
+8,sugar,0.90,90,White granulated sugar 1kg,pantry baking
+9,salt,0.40,200,Refined table salt 1kg,pantry cooking
+10,soap,0.80,70,Lavender bath soap 100g,personal care hygiene
+11,chips,1.10,65,Potato chips salted 150g,snack junk
+12,orange,0.60,110,Juicy oranges,fruit fresh produce
+13,yogurt,0.99,55,Plain yogurt 500g,dairy
+14,cheese,2.49,45,Cheddar cheese 200g,dairy protein
+15,oil,3.20,35,Sunflower cooking oil 1L,pantry cooking
+16,flour,1.10,75,All-purpose flour 1kg,pantry baking
+17,rice,2.10,90,Basmati rice 1kg,pantry grain
+18,dal,1.70,85,Yellow lentils 1kg,pantry protein
+19,water,0.25,300,Packaged drinking water 500ml,beverage
+20,chocolate,1.80,40,Dark chocolate 70% 100g,snack dessert

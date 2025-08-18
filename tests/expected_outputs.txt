@@ -1,0 +1,21 @@
+# Expected (approximate) console outputs
+
+## add_two_apples.wav  -> "add two apples"
+[STT] add two apples
+[Parse] action=add, qty=2, query='apples'
+Added 2 x apple to cart.
+[Cart] 2 x apple @ 0.50 | Total: 1.00
+[LLM] (Short confirmation message)
+
+## remove_one_bread.wav -> "remove one bread"
+[STT] remove one bread
+[Parse] action=remove, qty=1, query='bread'
+Removed 1 x bread from cart.  # if present; else a graceful error
+[Cart] ...
+[LLM] (Short confirmation message)
+
+## checkout.wav -> "checkout"
+[STT] checkout
+[Parse] action=checkout, qty=0, query=''
+Checkout: 2 x apple @ 0.50 | Total: 1.00
+[LLM] (Short polite checkout message)
