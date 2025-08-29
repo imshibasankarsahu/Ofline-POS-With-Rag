@@ -14,6 +14,7 @@ This project is an **offline Point-Of-Sale (POS) system** that uses local speech
 ├── rag.py                         # RAG: Inventory loading, embedding, and semantic search
 ├── llm.py                         # Language model (LLM) wrapper for text response
 ├── utils.py                       # Cart class and related utilities
+|-- mainapp.py                     #streamlit app 
 ├── inventory.csv                  # Sample product/price inventory (editable)
 ├── requirements.txt               # All required Python packages
 ├── README.md                      # This documentation file
