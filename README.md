@@ -56,6 +56,11 @@ This project is an **offline Point-Of-Sale (POS) system** that uses local speech
 
 5. **Edit and expand `inventory.csv`**
    - Add more products/rows as needed
+6.*streamlit run app for workig project
+ 
+   ```
+   strewamlit run mainapp.py
+   ```
 
 ---
 
