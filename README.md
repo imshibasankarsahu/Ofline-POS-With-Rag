@@ -55,7 +55,7 @@ This project is an **offline Point-Of-Sale (POS) system** that uses local speech
    - Make sure the `.wav` audio file you want to test (e.g., `sample_audio.wav`) is in the project root
 
 5. **Edit and expand `inventory.csv`**
-   - Add more products/rows as needed
+   
 6.*streamlit run app for workig project
  
    ```
